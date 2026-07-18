@@ -24,5 +24,5 @@ Analyze sales performance using Power BI.
 
 ## Dashboard Preview
 
-![Dashboard] (dashboard_.png)
+![Dashboard] (Screenshot 2026-07-18 105459.png)
 
