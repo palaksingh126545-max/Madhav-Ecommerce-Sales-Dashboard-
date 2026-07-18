@@ -22,6 +22,6 @@ Analyze sales performance using Power BI.
 - Best-selling products
 - Monthly sales trend
 
-  ##Dashboard Preview
+  ## Dashboard Preview
   ![Dashboard]
   (Screenshot%202026-07-18%20105459.png)
